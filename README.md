@@ -1,5 +1,5 @@
 # bash-archive-cron-example
-Simple script able to backup files to the correct destination + cron scheduling 
+Simple script able to archive and backup files to the correct destination + cron scheduling 
 
 
 # The script result:
